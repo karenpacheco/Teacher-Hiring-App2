@@ -1,0 +1,184 @@
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Newtonsoft.Json.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Splat.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.MainPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.App.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MasterDetailMaster.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.WelcomePage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolicitudPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.AsesoriasPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ShellPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.LoginPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.InformacionPage.xaml.g.cs
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.csprojResolveAssemblyReference.cache
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Splat.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.csprojResolveAssemblyReference.cache
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.MainPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.App.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MasterDetailMaster.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.WelcomePage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolicitudPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.AsesoriasPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ShellPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.LoginPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.InformacionPage.xaml.g.cs
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Splat.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.MainPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.App.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MasterDetailMaster.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.WelcomePage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolicitudPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.AsesoriasPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ShellPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.LoginPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.InformacionPage.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.Menu.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MenuMaster.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MenuDetail.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MaestroAltaCurso.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.Test.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\TeacherHiring.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Splat.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\SQLite-net.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.csprojResolveAssemblyReference.cache
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.MainPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.App.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MasterDetailMaster.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.WelcomePage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolicitudPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.AsesoriasPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ShellPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.LoginPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.InformacionPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ConfAsesoriaPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.RegAsesoriaPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolRealizadaPage.xaml.g.cs
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.dll
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.pdb
+C:\Users\kpacheco\Desktop\brandon 2\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.ListaMateriasPage.xaml.g.cs
